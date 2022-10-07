@@ -1,0 +1,5 @@
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\suhtlusarvutiga\obj\Debug\net5.0\suhtlusarvutiga.csproj.AssemblyReference.cache
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\suhtlusarvutiga\obj\Debug\net5.0\suhtlusarvutiga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\suhtlusarvutiga\obj\Debug\net5.0\suhtlusarvutiga.AssemblyInfoInputs.cache
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\suhtlusarvutiga\obj\Debug\net5.0\suhtlusarvutiga.AssemblyInfo.cs
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\suhtlusarvutiga\obj\Debug\net5.0\suhtlusarvutiga.csproj.CoreCompileInputs.cache

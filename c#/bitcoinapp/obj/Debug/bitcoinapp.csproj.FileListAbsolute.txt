@@ -1,0 +1,14 @@
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\bitcoinapp\bin\Debug\bitcoinapp.exe.config
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\bitcoinapp\bin\Debug\bitcoinapp.exe
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\bitcoinapp\bin\Debug\bitcoinapp.pdb
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\bitcoinapp\obj\Debug\bitcoinapp.csproj.AssemblyReference.cache
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\bitcoinapp\obj\Debug\bitcoinapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\bitcoinapp\obj\Debug\bitcoinapp.Form1.resources
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\bitcoinapp\obj\Debug\bitcoinapp.Properties.Resources.resources
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\bitcoinapp\obj\Debug\bitcoinapp.csproj.GenerateResource.cache
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\bitcoinapp\obj\Debug\bitcoinapp.csproj.CoreCompileInputs.cache
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\bitcoinapp\obj\Debug\bitcoinapp.exe
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\bitcoinapp\obj\Debug\bitcoinapp.pdb
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\bitcoinapp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\bitcoinapp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\bitcoinapp\obj\Debug\bitcoinapp.csproj.CopyComplete

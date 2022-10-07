@@ -1,0 +1,5 @@
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\summeerija\obj\Debug\net5.0\summeerija.csproj.AssemblyReference.cache
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\summeerija\obj\Debug\net5.0\summeerija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\summeerija\obj\Debug\net5.0\summeerija.AssemblyInfoInputs.cache
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\summeerija\obj\Debug\net5.0\summeerija.AssemblyInfo.cs
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\summeerija\obj\Debug\net5.0\summeerija.csproj.CoreCompileInputs.cache

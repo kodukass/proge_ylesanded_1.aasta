@@ -1,0 +1,5 @@
+1 * 1 kaupa = 1 eurot
+2 * 2 kaupa = 4 eurot
+3 * 3 kaupa = 9 eurot
+4 * 4 kaupa = 16 eurot
+5 * 5 kaupa = 25 eurot

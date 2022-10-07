@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f5e12038-42ad-49a5-8283-7697b8556047": {
+      "ProjectGuid": "f5e12038-42ad-49a5-8283-7697b8556047",
+      "DisplayName": "bitcoinapp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

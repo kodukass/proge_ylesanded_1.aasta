@@ -1,0 +1,6 @@
+1 eurot 1 tükki
+2 eurot 2 tükki
+3 eurot 3 tükki
+4 eurot 4 tükki
+5 eurot 5 tükki
+summa on 55

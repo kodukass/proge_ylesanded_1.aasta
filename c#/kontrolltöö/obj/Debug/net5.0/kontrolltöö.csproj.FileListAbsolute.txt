@@ -1,0 +1,16 @@
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\kontrolltöö\obj\Debug\net5.0\kontrolltöö.csproj.AssemblyReference.cache
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\kontrolltöö\obj\Debug\net5.0\kontrolltöö.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\kontrolltöö\obj\Debug\net5.0\kontrolltöö.AssemblyInfoInputs.cache
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\kontrolltöö\obj\Debug\net5.0\kontrolltöö.AssemblyInfo.cs
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\kontrolltöö\obj\Debug\net5.0\kontrolltöö.csproj.CoreCompileInputs.cache
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\kontrolltöö\bin\Debug\net5.0\kontrolltöö.exe
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\kontrolltöö\bin\Debug\net5.0\kontrolltöö.deps.json
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\kontrolltöö\bin\Debug\net5.0\kontrolltöö.runtimeconfig.json
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\kontrolltöö\bin\Debug\net5.0\kontrolltöö.runtimeconfig.dev.json
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\kontrolltöö\bin\Debug\net5.0\kontrolltöö.dll
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\kontrolltöö\bin\Debug\net5.0\ref\kontrolltöö.dll
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\kontrolltöö\bin\Debug\net5.0\kontrolltöö.pdb
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\kontrolltöö\obj\Debug\net5.0\kontrolltöö.dll
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\kontrolltöö\obj\Debug\net5.0\ref\kontrolltöö.dll
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\kontrolltöö\obj\Debug\net5.0\kontrolltöö.pdb
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\kontrolltöö\obj\Debug\net5.0\kontrolltöö.genruntimeconfig.cache

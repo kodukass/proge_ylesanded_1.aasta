@@ -1,0 +1,16 @@
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\ARVESTUS_emmamaeroodla\bin\Debug\net5.0\ARVESTUS_emmamaeroodla.exe
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\ARVESTUS_emmamaeroodla\bin\Debug\net5.0\ARVESTUS_emmamaeroodla.deps.json
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\ARVESTUS_emmamaeroodla\bin\Debug\net5.0\ARVESTUS_emmamaeroodla.runtimeconfig.json
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\ARVESTUS_emmamaeroodla\bin\Debug\net5.0\ARVESTUS_emmamaeroodla.runtimeconfig.dev.json
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\ARVESTUS_emmamaeroodla\bin\Debug\net5.0\ARVESTUS_emmamaeroodla.dll
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\ARVESTUS_emmamaeroodla\bin\Debug\net5.0\ref\ARVESTUS_emmamaeroodla.dll
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\ARVESTUS_emmamaeroodla\bin\Debug\net5.0\ARVESTUS_emmamaeroodla.pdb
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\ARVESTUS_emmamaeroodla\obj\Debug\net5.0\ARVESTUS_emmamaeroodla.csproj.AssemblyReference.cache
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\ARVESTUS_emmamaeroodla\obj\Debug\net5.0\ARVESTUS_emmamaeroodla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\ARVESTUS_emmamaeroodla\obj\Debug\net5.0\ARVESTUS_emmamaeroodla.AssemblyInfoInputs.cache
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\ARVESTUS_emmamaeroodla\obj\Debug\net5.0\ARVESTUS_emmamaeroodla.AssemblyInfo.cs
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\ARVESTUS_emmamaeroodla\obj\Debug\net5.0\ARVESTUS_emmamaeroodla.csproj.CoreCompileInputs.cache
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\ARVESTUS_emmamaeroodla\obj\Debug\net5.0\ARVESTUS_emmamaeroodla.dll
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\ARVESTUS_emmamaeroodla\obj\Debug\net5.0\ref\ARVESTUS_emmamaeroodla.dll
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\ARVESTUS_emmamaeroodla\obj\Debug\net5.0\ARVESTUS_emmamaeroodla.pdb
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\ARVESTUS_emmamaeroodla\obj\Debug\net5.0\ARVESTUS_emmamaeroodla.genruntimeconfig.cache

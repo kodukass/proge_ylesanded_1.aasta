@@ -1,0 +1,16 @@
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\tund5\bin\Debug\net5.0\tund5.exe
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\tund5\bin\Debug\net5.0\tund5.deps.json
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\tund5\bin\Debug\net5.0\tund5.runtimeconfig.json
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\tund5\bin\Debug\net5.0\tund5.runtimeconfig.dev.json
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\tund5\bin\Debug\net5.0\tund5.dll
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\tund5\bin\Debug\net5.0\ref\tund5.dll
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\tund5\bin\Debug\net5.0\tund5.pdb
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\tund5\obj\Debug\net5.0\tund5.csproj.AssemblyReference.cache
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\tund5\obj\Debug\net5.0\tund5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\tund5\obj\Debug\net5.0\tund5.AssemblyInfoInputs.cache
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\tund5\obj\Debug\net5.0\tund5.AssemblyInfo.cs
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\tund5\obj\Debug\net5.0\tund5.csproj.CoreCompileInputs.cache
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\tund5\obj\Debug\net5.0\tund5.dll
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\tund5\obj\Debug\net5.0\ref\tund5.dll
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\tund5\obj\Debug\net5.0\tund5.pdb
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\tund5\obj\Debug\net5.0\tund5.genruntimeconfig.cache

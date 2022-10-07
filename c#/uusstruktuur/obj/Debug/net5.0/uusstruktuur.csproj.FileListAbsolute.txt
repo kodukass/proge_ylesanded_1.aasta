@@ -1,0 +1,16 @@
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\uusstruktuur\bin\Debug\net5.0\uusstruktuur.exe
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\uusstruktuur\bin\Debug\net5.0\uusstruktuur.deps.json
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\uusstruktuur\bin\Debug\net5.0\uusstruktuur.runtimeconfig.json
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\uusstruktuur\bin\Debug\net5.0\uusstruktuur.runtimeconfig.dev.json
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\uusstruktuur\bin\Debug\net5.0\uusstruktuur.dll
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\uusstruktuur\bin\Debug\net5.0\ref\uusstruktuur.dll
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\uusstruktuur\bin\Debug\net5.0\uusstruktuur.pdb
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\uusstruktuur\obj\Debug\net5.0\uusstruktuur.csproj.AssemblyReference.cache
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\uusstruktuur\obj\Debug\net5.0\uusstruktuur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\uusstruktuur\obj\Debug\net5.0\uusstruktuur.AssemblyInfoInputs.cache
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\uusstruktuur\obj\Debug\net5.0\uusstruktuur.AssemblyInfo.cs
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\uusstruktuur\obj\Debug\net5.0\uusstruktuur.csproj.CoreCompileInputs.cache
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\uusstruktuur\obj\Debug\net5.0\uusstruktuur.dll
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\uusstruktuur\obj\Debug\net5.0\ref\uusstruktuur.dll
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\uusstruktuur\obj\Debug\net5.0\uusstruktuur.pdb
+C:\Users\koduk\OneDrive\Desktop\o\proge\c#\uusstruktuur\obj\Debug\net5.0\uusstruktuur.genruntimeconfig.cache
